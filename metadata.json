@@ -1,0 +1,6 @@
+{
+  "name": "Smart Kids Learning Game",
+  "description": "A vibrant, interactive educational adventure for kids featuring Math, English, General Knowledge, Memory Cards, and Puzzles with rewards, streak tracking, and parent insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
